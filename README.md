@@ -1,4 +1,4 @@
-# aerotyfi Go SDK KANERO
+# AerotyFi Go SDK $AEROTY
 
 <div align="center">
 
